@@ -1,7 +1,7 @@
 # trailsJsonWork4OTRD
-Trails for the editing between OTRD and OSU
-Date: 07/15/2020
-Description:
+Trails for the editing between OTRD and OSU</b>
+Date: 07/15/2020</b>
+Description:</b>
   The parks listed below have been updated:
      <li>Beavers Bend</li>
     <li>Bernice</li>
