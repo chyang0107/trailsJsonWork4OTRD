@@ -4,12 +4,12 @@ Date: 07/15/2020
 Description:
   The parks listed below have been updated:
      <li>Beavers Bend</li>
-    -Bernice
-    Boiling Springs
-    Fort Cobb
-    Great Plains
-    Great Salt Plains
-    Lake Eufaula
-    Lake Texoma
-    Robbers Cave
-    Sequoyah
+    <li>Bernice</li>
+    <li>Boiling Springs</li>
+    <li>Fort Cobb</li>
+    <li>Great Plains</li>
+    <li>Great Salt Plains</li>
+    <li>Lake Eufaula</li>
+    <li>Lake Texoma</li>
+    <li>Robbers Cave</li>
+    <li>Sequoyah</li>
