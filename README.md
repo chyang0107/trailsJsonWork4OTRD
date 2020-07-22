@@ -12,8 +12,8 @@ Description:<br>
     <li>Lake Eufaula</li>
     <li>Lake Texoma</li>
     <li>Robbers Cave</li>
-    <li>Sequoyah</li>
-Date: 07/22/2020<br>
+    <li>Sequoyah</li><br>
+<span style='color:red'>Date: 07/22/2020</span><br>
 Description:<br>
   The parks listed below have been updated:
      <li>Boiling Spring</li>
