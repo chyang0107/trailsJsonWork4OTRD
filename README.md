@@ -13,7 +13,7 @@ Description:<br>
     <li>Lake Texoma</li>
     <li>Robbers Cave</li>
     <li>Sequoyah</li><br>
-<span style='color:red'>Date: 07/22/2020</span><br>
+<p style='color:red'>Date: 07/22/2020</p><br>
 Description:<br>
   The parks listed below have been updated:
      <li>Boiling Spring</li>
