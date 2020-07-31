@@ -21,4 +21,4 @@ Date: 07/31/2020<br>
 Description:<br>
   The parks listed below have been updated:
      <li>Robbers Cave State Park</li>
-     <div style='text-indent: 50px;'>“Equestrian Trail #1” and “Equestrian Trail #5” with a shared Global ID </div>
+     <blockquote>“Equestrian Trail #1” and “Equestrian Trail #5” with a shared Global ID </blockquote>
