@@ -22,3 +22,11 @@ Description:<br>
   The parks listed below have been updated:
      <li>Robbers Cave State Park</li>
      <blockquote>“Equestrian Trail #1” and “Equestrian Trail #5” with a shared Global ID </blockquote>
+Date: 12/9/2020<br>
+Description:<br>
+  The parks listed below have been updated:
+     <li>Sequoyah State Park</li>
+     <li>Sequoyah Bay State Park</li>
+     <li>Little Sahara State Park</li>
+     <li>Greenleaf State Park</li>
+  The trail name has been updated if the trail is the Heart Healthy Trail   
