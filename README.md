@@ -28,4 +28,5 @@ Description:<br>
      <li>Sequoyah State Park</li>
      <li>Sequoyah Bay State Park</li>
      <li>Little Sahara State Park</li>
+     <li>Greenleaf State Park</li>
   The trail name has been updated if the trail is the Heart Healthy Trail   
