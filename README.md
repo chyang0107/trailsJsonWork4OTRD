@@ -30,4 +30,8 @@ Description:<br>
      <li>Little Sahara State Park</li>
      <li>Greenleaf State Park</li>
   The trail name has been updated if the trail is the Heart Healthy Trail<br>
-  <b>The addition of the Heart Healthy Trails</b>
+  <b>The addition of the Heart Healthy Trails</b><hr>
+Date: 12/10/2020<br>
+Description:<br>
+  The trail datasets have been updated with the column "HHealth" which shows the Heart Healthy Trail by Yes/No<br>
+  <b>The removal of the subset 0f Heart Healthy Trails</b>
