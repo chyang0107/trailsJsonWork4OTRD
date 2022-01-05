@@ -39,3 +39,7 @@ The trail datasets have been updated with the column "HHealth" which shows the H
 Date: 12/07/2021<br>
 Description:<br>
 The trail datasets have been updated with the new trails collected in Black Mesa State Park and Quartz Mountain State Park<br><hr>
+<b>The rename of the park name of Salt Plains State Park</b><hr>
+Date: 01/05/2022<br>
+Description:<br>
+The rename of the 'Great Salt Plains State Park' to 'Salt Plains State Park' <br><hr>
