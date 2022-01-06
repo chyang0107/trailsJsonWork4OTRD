@@ -43,3 +43,13 @@ The trail datasets have been updated with the new trails collected in Black Mesa
 Date: 01/05/2022<br>
 Description:<br>
 The rename of the 'Great Salt Plains State Park' to 'Salt Plains State Park' <br><hr>
+<b>Update the heart healthy trails</b><hr>
+Date: 01/06/2022<br>
+Description:<br>
+The hearthealthy trails listed below have been updated:
+<li>Trail Name: Beaver Creek Trail(Beavers Bend State Park)</li>
+<li>Trail Name: Hummingbird Beach(Lake Eufaula State Park (Fountainhead Area)) </li>
+<li>Trail Name: Lakeview Lodge Trail(Beavers Bend State Park)</li>
+<li>Trail Name: Nathan Boone Trail(Salt Plains State Park)</li> 
+<li>Trail Name: Rough Horsetail Trail(Red Rock Canyon State Park)</li> 
+<br><hr>
