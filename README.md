@@ -52,4 +52,8 @@ The hearthealthy trails listed below have been updated:
 <li>Trail Name: Lakeview Lodge Trail(Beavers Bend State Park)</li>
 <li>Trail Name: Nathan Boone Trail(Salt Plains State Park)</li> 
 <li>Trail Name: Rough Horsetail Trail(Red Rock Canyon State Park)</li> 
+<b>The update of the trails in Quartz Mountain State Park</b><hr>
+Date: 02/11/2022<br>
+Description:<br>
+The trails in Quartz Mountain State Park have been updated by park personnel <br><hr>
 <br><hr>
