@@ -5080,7 +5080,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.30400792872291, 34.90292626583454]
+        "coordinates": [-99.30625383679869, 34.90654229197417]
       },
       "properties": {
         "Condition": null,
@@ -5089,98 +5089,23 @@
         "MountBike": null,
         "HP_Access": null,
         "Surface": null,
-        "InspctDate": "2021-07-29",
+        "InspctDate": null,
         "Image_": null,
         "Park_Name": "Quartz Mountain State Park",
-        "Feature": "TrailHead",
-        "Name": "Twin Peaks Trail",
-        "Equestrain": null,
-        "InspctDtt": "2021-07-29",
-        "TrailsType": "Interpretive, Hiking",
-        "GlobalID": "{94E1AB82-B168-4383-A27D-5671C6BB78BC}",
-        "HHealth": "No"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-99.30323084882457, 34.90174371579991]
-      },
-      "properties": {
-        "Condition": null,
-        "NatuIntptv": null,
-        "Hiking": null,
-        "MountBike": null,
-        "HP_Access": null,
-        "Surface": null,
-        "InspctDate": "2021-07-28",
-        "Image_": null,
-        "Park_Name": "Quartz Mountain State Park",
-        "Feature": "TrailHead",
-        "Name": "Mountain Pass Trail",
-        "Equestrain": null,
-        "InspctDtt": "2021-07-28",
-        "TrailsType": "Interpretive, Hiking",
-        "GlobalID": "{B9BF7308-FC55-4A62-AEF4-4CE5933E0E0F}",
-        "HHealth": "No"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-99.3052933441125, 34.90400358709593]
-      },
-      "properties": {
-        "Condition": null,
-        "NatuIntptv": null,
-        "Hiking": null,
-        "MountBike": null,
-        "HP_Access": null,
-        "Surface": null,
-        "InspctDate": "2021-07-29",
-        "Image_": null,
-        "Park_Name": "Quartz Mountain State Park",
-        "Feature": "TrailHead",
-        "Name": "Quartz Mountain Trail",
-        "Equestrain": null,
-        "InspctDtt": "2021-07-29",
-        "TrailsType": "Hiking",
-        "GlobalID": "{D6C270CD-F121-4A68-8B80-51C710D58F9A}",
-        "HHealth": "No"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-99.30625383714482, 34.90654229229301]
-      },
-      "properties": {
-        "Condition": null,
-        "NatuIntptv": null,
-        "Hiking": null,
-        "MountBike": null,
-        "HP_Access": null,
-        "Surface": null,
-        "InspctDate": "2021-07-27",
-        "Image_": null,
-        "Park_Name": "Quartz Mountain State Park",
-        "Feature": "TrailHead",
+        "Feature": null,
         "Name": "Tom Creider Cave Trail",
         "Equestrain": null,
-        "InspctDtt": "2021-07-27",
-        "TrailsType": "Interpretive, Hiking",
+        "InspctDtt": null,
+        "TrailsType": null,
         "GlobalID": "{E00472F5-D49A-402C-A72D-C89703A6C7BC}",
-        "HHealth": "No"
+        "HHealth": null
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.30588989500262, 34.90545859573763]
+        "coordinates": [-99.3058898951411, 34.90545859576445]
       },
       "properties": {
         "Condition": null,
@@ -5189,23 +5114,23 @@
         "MountBike": null,
         "HP_Access": null,
         "Surface": null,
-        "InspctDate": "2021-07-27",
+        "InspctDate": null,
         "Image_": null,
         "Park_Name": "Quartz Mountain State Park",
-        "Feature": "TrailHead",
+        "Feature": null,
         "Name": "Sunrise Trail",
         "Equestrain": null,
-        "InspctDtt": "2021-07-27",
-        "TrailsType": "Interpretive, Hiking",
+        "InspctDtt": null,
+        "TrailsType": null,
         "GlobalID": "{3D90ABBB-901B-4D08-A4FF-AE6E00725824}",
-        "HHealth": "No"
+        "HHealth": null
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.30027902475717, 34.891912600586124]
+        "coordinates": [-99.33416636566365, 34.89776156989955]
       },
       "properties": {
         "Condition": null,
@@ -5214,23 +5139,148 @@
         "MountBike": null,
         "HP_Access": null,
         "Surface": null,
-        "InspctDate": "2021-08-15",
+        "InspctDate": null,
         "Image_": null,
         "Park_Name": "Quartz Mountain State Park",
-        "Feature": "TrailHead",
+        "Feature": null,
+        "Name": "Baldy Point Trail",
+        "Equestrain": null,
+        "InspctDtt": null,
+        "TrailsType": null,
+        "GlobalID": "{F9007B27-5405-43E6-B3D9-4BD8B381966F}",
+        "HHealth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.33416636566365, 34.89776156989955]
+      },
+      "properties": {
+        "Condition": null,
+        "NatuIntptv": null,
+        "Hiking": null,
+        "MountBike": null,
+        "HP_Access": null,
+        "Surface": null,
+        "InspctDate": null,
+        "Image_": null,
+        "Park_Name": "Quartz Mountain State Park",
+        "Feature": null,
+        "Name": "Mesquite Forest Trail",
+        "Equestrain": null,
+        "InspctDtt": null,
+        "TrailsType": null,
+        "GlobalID": "{3478B464-D310-4B47-B0D0-C4698A061B53}",
+        "HHealth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.32618095903211, 34.898026392947514]
+      },
+      "properties": {
+        "Condition": "Keep",
+        "NatuIntptv": null,
+        "Hiking": null,
+        "MountBike": null,
+        "HP_Access": null,
+        "Surface": null,
+        "InspctDate": null,
+        "Image_": null,
+        "Park_Name": "Quartz Mountain State Park",
+        "Feature": null,
+        "Name": "Cedar Valley Trail",
+        "Equestrain": null,
+        "InspctDtt": null,
+        "TrailsType": null,
+        "GlobalID": "{92CE2600-8B95-4DFB-9224-D762CC3166C8}",
+        "HHealth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.3263324841593, 34.89828832184467]
+      },
+      "properties": {
+        "Condition": "Keep",
+        "NatuIntptv": null,
+        "Hiking": null,
+        "MountBike": null,
+        "HP_Access": null,
+        "Surface": null,
+        "InspctDate": null,
+        "Image_": null,
+        "Park_Name": "Quartz Mountain State Park",
+        "Feature": null,
+        "Name": "Baldy Point Spur",
+        "Equestrain": null,
+        "InspctDtt": null,
+        "TrailsType": null,
+        "GlobalID": "{21A04195-C196-4F3A-B955-92AE461A2783}",
+        "HHealth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.30529334372387, 34.90400358705816]
+      },
+      "properties": {
+        "Condition": null,
+        "NatuIntptv": null,
+        "Hiking": null,
+        "MountBike": null,
+        "HP_Access": null,
+        "Surface": null,
+        "InspctDate": null,
+        "Image_": null,
+        "Park_Name": "Quartz Mountain State Park",
+        "Feature": null,
+        "Name": "Twin Peaks Trail",
+        "Equestrain": null,
+        "InspctDtt": null,
+        "TrailsType": null,
+        "GlobalID": "{94E1AB82-B168-4383-A27D-5671C6BB78BC}",
+        "HHealth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.30027902506302, 34.89191260044216]
+      },
+      "properties": {
+        "Condition": "Keep",
+        "NatuIntptv": null,
+        "Hiking": null,
+        "MountBike": null,
+        "HP_Access": "No",
+        "Surface": null,
+        "InspctDate": null,
+        "Image_": null,
+        "Park_Name": "Quartz Mountain State Park",
+        "Feature": null,
         "Name": "New Horizon Trail",
         "Equestrain": null,
-        "InspctDtt": "2021-08-15",
-        "TrailsType": "Hiking",
+        "InspctDtt": null,
+        "TrailsType": null,
         "GlobalID": "{0FEC1539-2C5F-4319-BBA1-9D062BE7B2A3}",
-        "HHealth": "No"
+        "HHealth": null
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-99.30093850121085, 34.890239775245504]
+        "coordinates": [-99.30094217937207, 34.89023500539709]
       },
       "properties": {
         "Condition": null,
@@ -5239,16 +5289,41 @@
         "MountBike": null,
         "HP_Access": null,
         "Surface": null,
-        "InspctDate": "2021-07-29",
+        "InspctDate": null,
         "Image_": null,
         "Park_Name": "Quartz Mountain State Park",
-        "Feature": "TrailHead",
+        "Feature": null,
         "Name": "Heart Healthy Trail",
         "Equestrain": null,
-        "InspctDtt": "2021-07-29",
-        "TrailsType": "Hiking",
+        "InspctDtt": null,
+        "TrailsType": null,
         "GlobalID": "{41090F86-F992-4C79-80D8-B91565993597}",
-        "HHealth": "Yes"
+        "HHealth": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.30322851304271, 34.90176032426864]
+      },
+      "properties": {
+        "Condition": null,
+        "NatuIntptv": null,
+        "Hiking": null,
+        "MountBike": null,
+        "HP_Access": null,
+        "Surface": null,
+        "InspctDate": null,
+        "Image_": null,
+        "Park_Name": "Quartz Mountain State Park",
+        "Feature": null,
+        "Name": "Mountain Pass Trail",
+        "Equestrain": null,
+        "InspctDtt": null,
+        "TrailsType": null,
+        "GlobalID": "{B9BF7308-FC55-4A62-AEF4-4CE5933E0E0F}",
+        "HHealth": null
       }
     }
   ]
