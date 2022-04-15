@@ -57,3 +57,7 @@ Date: 02/11/2022<br>
 Description:<br>
 The trails in Quartz Mountain State Park have been updated by park personnel <br><hr>
 <br><hr>
+Date: 04/15/2022<br>
+Description:<br>
+The trails in Quartz Mountain State Park have been updated by park personnel concering the TrailsType(Removed Interpretive) <br><hr>
+<br><hr>
